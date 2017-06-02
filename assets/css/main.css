@@ -1,1 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body{
+  background-image: url("../../assets/img/Apple water wallpaper 02 2560x1440.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel{
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 15%;
+}
+
+.carousel img{
+  height: 10%;
+  width: 19%;
+  border: 6px solid green;
+}
+
+p{
+  font-size: 30px;
+  font-family: monospace;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
